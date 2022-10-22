@@ -1,2 +1,2 @@
-# MichaelPKennedy-github.io
+# MichaelPKennedy
 Personal Page
