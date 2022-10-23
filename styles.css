@@ -67,21 +67,21 @@ a:hover {
 
 header p {
     font-family: 'Montserrat', sans-serif;
-    font-size: 30px;
+    font-size: 25px;
 
     text-align: center;
     padding: 20px;
-    color: #61686b;
+    color: #ffffff;
     display: block;
 }
 
 div p {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 20px;
+    font-family: 'Montserrat', serif;
+    font-size: 16px;
 
     text-align: center;
     padding: 20px;
-    color: #202020;
+    color: #ffffff;
     display: block;
 }
 
@@ -97,10 +97,11 @@ div p {
     margin: auto;
     width: 45em;
     height: 300px;
-    background-color: rgba(255, 255, 255, 0.85);
-    box-shadow: inset 0 1px 0 0 #dddddd;
+    background-color: rgba(255, 255, 255, 0.05);
+    box-shadow: inset 0 1px 0 0 rgba(255, 255, 255, 0.2);
     position: relative;
     border-radius: 10px;
+    margin-top: 20px;
 
 }
 
@@ -118,4 +119,18 @@ div p {
 .icons {
     text-align: center;
     margin: 10px;
+}
+
+.projectimages {
+    height: 200px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#portfolio {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
 }
