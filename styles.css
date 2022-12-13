@@ -129,6 +129,8 @@ div {
 .projectimages {
     height: 23em;
     padding: 1.5em;
+    margin-left: 1.5em;
+    margin-right: 1.5em;
 }
 
 #portfolio {
